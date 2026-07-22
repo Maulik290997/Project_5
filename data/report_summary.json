@@ -1,0 +1,212 @@
+{
+  "n_users": 106857,
+  "top_10_handsets": {
+    "Huawei B528S-23A": 20324,
+    "Apple iPhone 6S (A1688)": 9419,
+    "Apple iPhone 6 (A1586)": 9023,
+    "undefined": 8987,
+    "Apple iPhone 7 (A1778)": 6326,
+    "Apple iPhone Se (A1723)": 5187,
+    "Apple iPhone 8 (A1905)": 4993,
+    "Apple iPhone Xr (A2105)": 4568,
+    "Samsung Galaxy S8 (Sm-G950F)": 4520,
+    "Apple iPhone X (A1901)": 3813
+  },
+  "top_3_manufacturers": {
+    "Apple": 60137,
+    "Samsung": 40839,
+    "Huawei": 34423
+  },
+  "top5_per_manufacturer": {
+    "Apple": {
+      "Apple iPhone 6S (A1688)": 9419,
+      "Apple iPhone 6 (A1586)": 9023,
+      "Apple iPhone 7 (A1778)": 6326,
+      "Apple iPhone Se (A1723)": 5187,
+      "Apple iPhone 8 (A1905)": 4993
+    },
+    "Samsung": {
+      "Samsung Galaxy S8 (Sm-G950F)": 4520,
+      "Samsung Galaxy A5 Sm-A520F": 3724,
+      "Samsung Galaxy J5 (Sm-J530)": 3696,
+      "Samsung Galaxy J3 (Sm-J330)": 3484,
+      "Samsung Galaxy S7 (Sm-G930X)": 3199
+    },
+    "Huawei": {
+      "Huawei B528S-23A": 19752,
+      "Huawei E5180": 2079,
+      "Huawei P20 Lite Huawei Nova 3E": 2021,
+      "Huawei P20": 1480,
+      "Huawei Y6 2018": 997
+    }
+  },
+  "bivariate_corr": {
+    "Social Media": 0.0054,
+    "Google": 0.0134,
+    "Email": 0.0038,
+    "Youtube": 0.0349,
+    "Netflix": 0.0348,
+    "Gaming": 0.9983,
+    "Other": -0.0024
+  },
+  "pca_var_ratio": [
+    14.4,
+    14.4,
+    14.4,
+    14.3
+  ],
+  "decile_totals_fmt": {
+    "5": "5.8 TB",
+    "6": "5.6 TB",
+    "7": "7.1 TB",
+    "8": "8.5 TB",
+    "9": "14.0 TB"
+  },
+  "app_totals_overall_fmt": {
+    "Gaming": "58.7 TB",
+    "Other": "58.6 TB",
+    "Youtube": "3.1 TB",
+    "Netflix": "3.1 TB",
+    "Google": "1.1 TB",
+    "Email": "315.6 GB",
+    "Social Media": "255.4 GB"
+  },
+  "top3_apps": [
+    "Total Gaming (Bytes)",
+    "Total Other (Bytes)",
+    "Total Youtube (Bytes)"
+  ],
+  "least_engaged_cluster": 0,
+  "elbow_inertias": [
+    [
+      1,
+      320571.0000000001
+    ],
+    [
+      2,
+      49043.865581017715
+    ],
+    [
+      3,
+      28288.535914774617
+    ],
+    [
+      4,
+      19122.848301308808
+    ],
+    [
+      5,
+      14779.500666341806
+    ],
+    [
+      6,
+      12730.490159746141
+    ],
+    [
+      7,
+      10551.300688606052
+    ],
+    [
+      8,
+      9004.596112970055
+    ]
+  ],
+  "worst_experience_cluster": 1,
+  "throughput_by_handset_top5": {
+    "Zyxel Communicat. Sbg3600": 83050.0,
+    "Lg G6+": 81099.0,
+    "Huawei Y9 2019": 79893.0,
+    "Spa Condor Elect. Allure M2": 79728.0,
+    "New-Bund Technol. Mix 2": 79253.0
+  },
+  "tcp_by_handset_top5": {
+    "Huawei Bln-Al10": 79350884.08136772,
+    "Samsung Galaxy J8 2018": 79246547.08136772,
+    "Huawei E587 E587U-2 Turkcell Vinnwifi E587": 63085402.0,
+    "Asustek Asus Zenfone Selfie Zd551Kl": 60980565.870305985,
+    "Zyxel Communicat. Sbg3600": 53050444.65924426
+  },
+  "regression_r2": 0.9509,
+  "regression_coefficients": {
+    "sessions_frequency": 0.5424,
+    "total_duration_ms": 0.246,
+    "total_traffic_bytes": 0.0544,
+    "avg_tcp_retrans_total_bytes": 0.1901,
+    "avg_rtt_ms": -0.3039,
+    "avg_throughput_kbps": 0.1948
+  },
+  "cluster_satisfaction_experience_avg": {
+    "0": {
+      "satisfaction_score": 1.8376,
+      "experience_score": 3.246,
+      "engagement_score": 0.4292
+    },
+    "1": {
+      "satisfaction_score": 261.7622,
+      "experience_score": 2.3027,
+      "engagement_score": 521.2216
+    }
+  },
+  "top10_satisfied": [
+    {
+      "MSISDN/Number": 41882819545.02736,
+      "engagement_score": 521.2216290104029,
+      "experience_score": 2.3027029958545002,
+      "satisfaction_score": 261.7621660031287
+    },
+    {
+      "MSISDN/Number": 33625779332.0,
+      "engagement_score": 22.713626704761865,
+      "experience_score": 3.5357407512253833,
+      "satisfaction_score": 13.124683727993624
+    },
+    {
+      "MSISDN/Number": 33626320676.0,
+      "engagement_score": 20.85090573610743,
+      "experience_score": 3.0943810626858386,
+      "satisfaction_score": 11.972643399396633
+    },
+    {
+      "MSISDN/Number": 33614892860.0,
+      "engagement_score": 20.64601244651495,
+      "experience_score": 3.012852101156698,
+      "satisfaction_score": 11.829432273835824
+    },
+    {
+      "MSISDN/Number": 33760536639.0,
+      "engagement_score": 17.674025727320593,
+      "experience_score": 2.31450057442871,
+      "satisfaction_score": 9.994263150874652
+    },
+    {
+      "MSISDN/Number": 33667163239.0,
+      "engagement_score": 16.621330222770027,
+      "experience_score": 3.1979153435573098,
+      "satisfaction_score": 9.909622783163668
+    },
+    {
+      "MSISDN/Number": 33675877202.0,
+      "engagement_score": 15.968450413779987,
+      "experience_score": 3.0985862470643553,
+      "satisfaction_score": 9.53351833042217
+    },
+    {
+      "MSISDN/Number": 33659725664.0,
+      "engagement_score": 15.501476443113969,
+      "experience_score": 3.1450932473999846,
+      "satisfaction_score": 9.323284845256977
+    },
+    {
+      "MSISDN/Number": 33603127838.0,
+      "engagement_score": 15.377937547836238,
+      "experience_score": 2.4173203604999527,
+      "satisfaction_score": 8.897628954168095
+    },
+    {
+      "MSISDN/Number": 33604515716.0,
+      "engagement_score": 14.20183993316811,
+      "experience_score": 2.972423738647702,
+      "satisfaction_score": 8.587131835907906
+    }
+  ]
+}

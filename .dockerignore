@@ -1,0 +1,7 @@
+.git
+__pycache__
+*.pyc
+data/telcom_data.xlsx
+data/telcom_data.csv
+.pytest_cache
+*.egg-info

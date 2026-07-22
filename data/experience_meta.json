@@ -1,0 +1,1 @@
+{"worst_experience_cluster": 1, "metric_cols": ["avg_tcp_retrans_total_bytes", "avg_rtt_ms", "avg_throughput_kbps"]}

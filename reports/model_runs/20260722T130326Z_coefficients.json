@@ -1,0 +1,9 @@
+{
+  "sessions_frequency": 0.1751775794222572,
+  "total_duration_ms": 0.3255846168109917,
+  "total_traffic_bytes": 0.04513100509420738,
+  "avg_tcp_retrans_total_bytes": 0.18644197074828645,
+  "avg_rtt_ms": -0.30505177722408006,
+  "avg_throughput_kbps": 0.20946045161732932,
+  "intercept": 1.8391023071405517
+}

@@ -1,0 +1,493 @@
+{
+  "top10_per_metric": {
+    "sessions_frequency": [
+      {
+        "MSISDN/Number": 41882819545.02736,
+        "sessions_frequency": 1066
+      },
+      {
+        "MSISDN/Number": 33626320676.0,
+        "sessions_frequency": 18
+      },
+      {
+        "MSISDN/Number": 33614892860.0,
+        "sessions_frequency": 17
+      },
+      {
+        "MSISDN/Number": 33625779332.0,
+        "sessions_frequency": 17
+      },
+      {
+        "MSISDN/Number": 33659725664.0,
+        "sessions_frequency": 16
+      },
+      {
+        "MSISDN/Number": 33675877202.0,
+        "sessions_frequency": 15
+      },
+      {
+        "MSISDN/Number": 33760536639.0,
+        "sessions_frequency": 15
+      },
+      {
+        "MSISDN/Number": 33667163239.0,
+        "sessions_frequency": 13
+      },
+      {
+        "MSISDN/Number": 33603127838.0,
+        "sessions_frequency": 12
+      },
+      {
+        "MSISDN/Number": 33604515716.0,
+        "sessions_frequency": 12
+      }
+    ],
+    "total_duration_ms": [
+      {
+        "MSISDN/Number": 41882819545.02736,
+        "total_duration_ms": 71878337.56034666
+      },
+      {
+        "MSISDN/Number": 33625779332.0,
+        "total_duration_ms": 5880695.0
+      },
+      {
+        "MSISDN/Number": 33626320676.0,
+        "total_duration_ms": 5360613.0
+      },
+      {
+        "MSISDN/Number": 33614892860.0,
+        "total_duration_ms": 5290555.0
+      },
+      {
+        "MSISDN/Number": 33760536639.0,
+        "total_duration_ms": 4503769.0
+      },
+      {
+        "MSISDN/Number": 33667163239.0,
+        "total_duration_ms": 4352404.0
+      },
+      {
+        "MSISDN/Number": 33675877202.0,
+        "total_duration_ms": 4045657.0
+      },
+      {
+        "MSISDN/Number": 33603127838.0,
+        "total_duration_ms": 4044533.0
+      },
+      {
+        "MSISDN/Number": 33659725664.0,
+        "total_duration_ms": 3896650.0
+      },
+      {
+        "MSISDN/Number": 33604515716.0,
+        "total_duration_ms": 3703005.0
+      }
+    ],
+    "total_traffic_bytes": [
+      {
+        "MSISDN/Number": 41882819545.02736,
+        "total_traffic_bytes": 531744709244.3711
+      },
+      {
+        "MSISDN/Number": 33614892860.0,
+        "total_traffic_bytes": 8846226494.0
+      },
+      {
+        "MSISDN/Number": 33760536639.0,
+        "total_traffic_bytes": 8514773963.0
+      },
+      {
+        "MSISDN/Number": 33625779332.0,
+        "total_traffic_bytes": 8499620722.0
+      },
+      {
+        "MSISDN/Number": 33626320676.0,
+        "total_traffic_bytes": 7971167261.0
+      },
+      {
+        "MSISDN/Number": 33675877202.0,
+        "total_traffic_bytes": 7891110608.0
+      },
+      {
+        "MSISDN/Number": 33659725664.0,
+        "total_traffic_bytes": 7705862783.0
+      },
+      {
+        "MSISDN/Number": 33666464084.0,
+        "total_traffic_bytes": 7308500938.0
+      },
+      {
+        "MSISDN/Number": 33760413819.0,
+        "total_traffic_bytes": 7132370514.0
+      },
+      {
+        "MSISDN/Number": 33664712899.0,
+        "total_traffic_bytes": 6872018208.0
+      }
+    ]
+  },
+  "engagement_cluster_stats": "                   sessions_frequency                        total_duration_ms                                         total_traffic_bytes                                          \n                                  min   max     mean     sum               min          max         mean           sum                 min           max          mean           sum\nengagement_cluster                                                                                                                                                                  \n0                                   1     4     1.20  114764           7142.00    357394.00    109532.11  1.047072e+10        3.324901e+07  2.522556e+09  5.893957e+08  5.634328e+13\n1                                   1    18     3.03   34171          85554.00   5880695.00    428180.78  4.821744e+09        1.613794e+08  8.846226e+09  1.553163e+09  1.749016e+13\n2                                1066  1066  1066.00    1066       71878337.56  71878337.56  71878337.56  7.187834e+07        5.317447e+11  5.317447e+11  5.317447e+11  5.317447e+11",
+  "least_engaged_cluster": 0,
+  "cluster_centers_normalized": [
+    [
+      -0.060575425234507506,
+      -0.12894308818815223,
+      -0.06277357754316765
+    ],
+    [
+      0.4860485707224256,
+      1.0706213649136649,
+      0.5051002455135349
+    ],
+    [
+      317.3148203813558,
+      270.0473250548225,
+      312.9062805111705
+    ]
+  ],
+  "top10_per_app": {
+    "Total Social Media (Bytes)": [
+      {
+        "MSISDN/Number": 41882819545.02736,
+        "Total Social Media (Bytes)": 1973817362.2080266
+      },
+      {
+        "MSISDN/Number": 33626320676.0,
+        "Total Social Media (Bytes)": 43374779.0
+      },
+      {
+        "MSISDN/Number": 33760536639.0,
+        "Total Social Media (Bytes)": 39783189.0
+      },
+      {
+        "MSISDN/Number": 33659725664.0,
+        "Total Social Media (Bytes)": 35412358.0
+      },
+      {
+        "MSISDN/Number": 33614892860.0,
+        "Total Social Media (Bytes)": 28294544.0
+      },
+      {
+        "MSISDN/Number": 33625779332.0,
+        "Total Social Media (Bytes)": 27135500.0
+      },
+      {
+        "MSISDN/Number": 33667163239.0,
+        "Total Social Media (Bytes)": 24247850.0
+      },
+      {
+        "MSISDN/Number": 33786323068.0,
+        "Total Social Media (Bytes)": 23974919.0
+      },
+      {
+        "MSISDN/Number": 33669068942.0,
+        "Total Social Media (Bytes)": 23800834.0
+      },
+      {
+        "MSISDN/Number": 33603127838.0,
+        "Total Social Media (Bytes)": 23077825.0
+      }
+    ],
+    "Total Google (Bytes)": [
+      {
+        "MSISDN/Number": 41882819545.02736,
+        "Total Google (Bytes)": 8248576910.545573
+      },
+      {
+        "MSISDN/Number": 33626320676.0,
+        "Total Google (Bytes)": 152191852.0
+      },
+      {
+        "MSISDN/Number": 33625779332.0,
+        "Total Google (Bytes)": 142307915.0
+      },
+      {
+        "MSISDN/Number": 33614892860.0,
+        "Total Google (Bytes)": 127973787.0
+      },
+      {
+        "MSISDN/Number": 33760536639.0,
+        "Total Google (Bytes)": 123223099.0
+      },
+      {
+        "MSISDN/Number": 33659725664.0,
+        "Total Google (Bytes)": 116516345.0
+      },
+      {
+        "MSISDN/Number": 33786323068.0,
+        "Total Google (Bytes)": 110254484.0
+      },
+      {
+        "MSISDN/Number": 33675877202.0,
+        "Total Google (Bytes)": 109860502.0
+      },
+      {
+        "MSISDN/Number": 33667163239.0,
+        "Total Google (Bytes)": 105032696.0
+      },
+      {
+        "MSISDN/Number": 33761268199.0,
+        "Total Google (Bytes)": 97089988.0
+      }
+    ],
+    "Total Email (Bytes)": [
+      {
+        "MSISDN/Number": 41882819545.02736,
+        "Total Email (Bytes)": 2399880433.30996
+      },
+      {
+        "MSISDN/Number": 33626320676.0,
+        "Total Email (Bytes)": 42418782.0
+      },
+      {
+        "MSISDN/Number": 33614892860.0,
+        "Total Email (Bytes)": 40788634.0
+      },
+      {
+        "MSISDN/Number": 33625779332.0,
+        "Total Email (Bytes)": 40633966.0
+      },
+      {
+        "MSISDN/Number": 33786323068.0,
+        "Total Email (Bytes)": 36310123.0
+      },
+      {
+        "MSISDN/Number": 33659725664.0,
+        "Total Email (Bytes)": 35999792.0
+      },
+      {
+        "MSISDN/Number": 33760536639.0,
+        "Total Email (Bytes)": 33693767.0
+      },
+      {
+        "MSISDN/Number": 33675877202.0,
+        "Total Email (Bytes)": 31514421.0
+      },
+      {
+        "MSISDN/Number": 33665460546.0,
+        "Total Email (Bytes)": 30417885.0
+      },
+      {
+        "MSISDN/Number": 33667163239.0,
+        "Total Email (Bytes)": 30335796.0
+      }
+    ],
+    "Total Youtube (Bytes)": [
+      {
+        "MSISDN/Number": 41882819545.02736,
+        "Total Youtube (Bytes)": 24340725905.6386
+      },
+      {
+        "MSISDN/Number": 33625779332.0,
+        "Total Youtube (Bytes)": 452958769.0
+      },
+      {
+        "MSISDN/Number": 33760536639.0,
+        "Total Youtube (Bytes)": 396289198.0
+      },
+      {
+        "MSISDN/Number": 33614892860.0,
+        "Total Youtube (Bytes)": 394370218.0
+      },
+      {
+        "MSISDN/Number": 33626320676.0,
+        "Total Youtube (Bytes)": 374483047.0
+      },
+      {
+        "MSISDN/Number": 33675877202.0,
+        "Total Youtube (Bytes)": 317410572.0
+      },
+      {
+        "MSISDN/Number": 33667163239.0,
+        "Total Youtube (Bytes)": 315231310.0
+      },
+      {
+        "MSISDN/Number": 33627080969.0,
+        "Total Youtube (Bytes)": 308790774.0
+      },
+      {
+        "MSISDN/Number": 33760413819.0,
+        "Total Youtube (Bytes)": 303169107.0
+      },
+      {
+        "MSISDN/Number": 33698792269.0,
+        "Total Youtube (Bytes)": 302661958.0
+      }
+    ],
+    "Total Netflix (Bytes)": [
+      {
+        "MSISDN/Number": 41882819545.02736,
+        "Total Netflix (Bytes)": 24253572125.53838
+      },
+      {
+        "MSISDN/Number": 33659725664.0,
+        "Total Netflix (Bytes)": 399519079.0
+      },
+      {
+        "MSISDN/Number": 33614892860.0,
+        "Total Netflix (Bytes)": 361401046.0
+      },
+      {
+        "MSISDN/Number": 33625779332.0,
+        "Total Netflix (Bytes)": 356980607.0
+      },
+      {
+        "MSISDN/Number": 33760536639.0,
+        "Total Netflix (Bytes)": 334643269.0
+      },
+      {
+        "MSISDN/Number": 33626320676.0,
+        "Total Netflix (Bytes)": 328725740.0
+      },
+      {
+        "MSISDN/Number": 33760413819.0,
+        "Total Netflix (Bytes)": 318347546.0
+      },
+      {
+        "MSISDN/Number": 33667163239.0,
+        "Total Netflix (Bytes)": 313939488.0
+      },
+      {
+        "MSISDN/Number": 33675877202.0,
+        "Total Netflix (Bytes)": 309093159.0
+      },
+      {
+        "MSISDN/Number": 33786323068.0,
+        "Total Netflix (Bytes)": 305939790.0
+      }
+    ],
+    "Total Gaming (Bytes)": [
+      {
+        "MSISDN/Number": 41882819545.02736,
+        "Total Gaming (Bytes)": 461478029804.7061
+      },
+      {
+        "MSISDN/Number": 33614892860.0,
+        "Total Gaming (Bytes)": 7749432234.0
+      },
+      {
+        "MSISDN/Number": 33760536639.0,
+        "Total Gaming (Bytes)": 7461045228.0
+      },
+      {
+        "MSISDN/Number": 33625779332.0,
+        "Total Gaming (Bytes)": 7326673487.0
+      },
+      {
+        "MSISDN/Number": 33675877202.0,
+        "Total Gaming (Bytes)": 6970567597.0
+      },
+      {
+        "MSISDN/Number": 33626320676.0,
+        "Total Gaming (Bytes)": 6887572116.0
+      },
+      {
+        "MSISDN/Number": 33659725664.0,
+        "Total Gaming (Bytes)": 6725559211.0
+      },
+      {
+        "MSISDN/Number": 33666464084.0,
+        "Total Gaming (Bytes)": 6646303338.0
+      },
+      {
+        "MSISDN/Number": 33760413819.0,
+        "Total Gaming (Bytes)": 6268619592.0
+      },
+      {
+        "MSISDN/Number": 33664712899.0,
+        "Total Gaming (Bytes)": 6103856008.0
+      }
+    ],
+    "Total Other (Bytes)": [
+      {
+        "MSISDN/Number": 41882819545.02736,
+        "Total Other (Bytes)": 450978392359.6189
+      },
+      {
+        "MSISDN/Number": 33626320676.0,
+        "Total Other (Bytes)": 8167877776.0
+      },
+      {
+        "MSISDN/Number": 33614892860.0,
+        "Total Other (Bytes)": 7639263572.0
+      },
+      {
+        "MSISDN/Number": 33675877202.0,
+        "Total Other (Bytes)": 6798515150.0
+      },
+      {
+        "MSISDN/Number": 33625779332.0,
+        "Total Other (Bytes)": 6354583086.0
+      },
+      {
+        "MSISDN/Number": 33603127838.0,
+        "Total Other (Bytes)": 6326670874.0
+      },
+      {
+        "MSISDN/Number": 33659725664.0,
+        "Total Other (Bytes)": 6317415487.0
+      },
+      {
+        "MSISDN/Number": 33626948251.0,
+        "Total Other (Bytes)": 5305447882.0
+      },
+      {
+        "MSISDN/Number": 33627080969.0,
+        "Total Other (Bytes)": 5117790890.0
+      },
+      {
+        "MSISDN/Number": 33761268199.0,
+        "Total Other (Bytes)": 5077779438.0
+      }
+    ]
+  },
+  "app_totals_overall": {
+    "Total Gaming (Bytes)": 64550395439016.7,
+    "Total Other (Bytes)": 64405230908181.62,
+    "Total Youtube (Bytes)": 3396545039272.6387,
+    "Total Netflix (Bytes)": 3394313609363.5386,
+    "Total Google (Bytes)": 1171101989130.5457,
+    "Total Email (Bytes)": 338867605596.30994,
+    "Total Social Media (Bytes)": 274239359454.20804
+  },
+  "top3_apps": {
+    "Total Gaming (Bytes)": 64550395439016.7,
+    "Total Other (Bytes)": 64405230908181.62,
+    "Total Youtube (Bytes)": 3396545039272.6387
+  },
+  "elbow_inertias": [
+    [
+      1,
+      320571.0000000001
+    ],
+    [
+      2,
+      49043.865581017715
+    ],
+    [
+      3,
+      28288.535914774617
+    ],
+    [
+      4,
+      19122.848301308808
+    ],
+    [
+      5,
+      14779.500666341806
+    ],
+    [
+      6,
+      12730.490159746141
+    ],
+    [
+      7,
+      10551.300688606052
+    ],
+    [
+      8,
+      9004.596112970055
+    ]
+  ]
+}

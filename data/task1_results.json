@@ -1,0 +1,270 @@
+{
+  "top_10_handsets": {
+    "Huawei B528S-23A": 20324,
+    "Apple iPhone 6S (A1688)": 9419,
+    "Apple iPhone 6 (A1586)": 9023,
+    "undefined": 8987,
+    "Apple iPhone 7 (A1778)": 6326,
+    "Apple iPhone Se (A1723)": 5187,
+    "Apple iPhone 8 (A1905)": 4993,
+    "Apple iPhone Xr (A2105)": 4568,
+    "Samsung Galaxy S8 (Sm-G950F)": 4520,
+    "Apple iPhone X (A1901)": 3813
+  },
+  "top_3_manufacturers": {
+    "Apple": 60137,
+    "Samsung": 40839,
+    "Huawei": 34423
+  },
+  "top5_handsets_per_manufacturer": {
+    "Apple": {
+      "Apple iPhone 6S (A1688)": 9419,
+      "Apple iPhone 6 (A1586)": 9023,
+      "Apple iPhone 7 (A1778)": 6326,
+      "Apple iPhone Se (A1723)": 5187,
+      "Apple iPhone 8 (A1905)": 4993
+    },
+    "Samsung": {
+      "Samsung Galaxy S8 (Sm-G950F)": 4520,
+      "Samsung Galaxy A5 Sm-A520F": 3724,
+      "Samsung Galaxy J5 (Sm-J530)": 3696,
+      "Samsung Galaxy J3 (Sm-J330)": 3484,
+      "Samsung Galaxy S7 (Sm-G930X)": 3199
+    },
+    "Huawei": {
+      "Huawei B528S-23A": 19752,
+      "Huawei E5180": 2079,
+      "Huawei P20 Lite Huawei Nova 3E": 2021,
+      "Huawei P20": 1480,
+      "Huawei Y6 2018": 997
+    }
+  },
+  "n_users": 106857,
+  "basic_metrics": {
+    "Dur. (ms)": {
+      "mean": 102428.28,
+      "median": 86399.0,
+      "std": 67631.75,
+      "min": 7142.0,
+      "max": 357394.0
+    },
+    "Total DL (Bytes)": {
+      "mean": 454643430.08,
+      "median": 455840911.0,
+      "std": 244142060.57,
+      "min": 7114041.0,
+      "max": 902969616.0
+    },
+    "Total UL (Bytes)": {
+      "mean": 41121206.29,
+      "median": 41143242.0,
+      "std": 11276348.93,
+      "min": 2866892.0,
+      "max": 78331311.0
+    },
+    "Avg RTT DL (ms)": {
+      "mean": 77.39,
+      "median": 54.0,
+      "std": 66.6,
+      "min": 0.0,
+      "max": 334.18
+    },
+    "Avg RTT UL (ms)": {
+      "mean": 12.95,
+      "median": 7.0,
+      "std": 13.76,
+      "min": 0.0,
+      "max": 61.65
+    },
+    "Avg Bearer TP DL (kbps)": {
+      "mean": 12597.36,
+      "median": 63.0,
+      "std": 21009.55,
+      "min": 0.0,
+      "max": 78711.0
+    },
+    "Avg Bearer TP UL (kbps)": {
+      "mean": 903.61,
+      "median": 63.0,
+      "std": 1434.34,
+      "min": 0.0,
+      "max": 4339.0
+    }
+  },
+  "dispersion": {
+    "Dur. (ms)": {
+      "std": 67631.75,
+      "var": 4574053477.77,
+      "iqr": 74988.0,
+      "skew": 1.45,
+      "kurt": 2.72
+    },
+    "Total DL (Bytes)": {
+      "std": 244142060.57,
+      "var": 5.9605345737093096e+16,
+      "iqr": 422597965.0,
+      "skew": -0.0,
+      "kurt": -1.2
+    },
+    "Total UL (Bytes)": {
+      "std": 11276348.93,
+      "var": 127156045116041.8,
+      "iqr": 15812209.0,
+      "skew": -0.0,
+      "kurt": -0.33
+    },
+    "Avg RTT DL (ms)": {
+      "std": 66.6,
+      "var": 4435.62,
+      "iqr": 74.8,
+      "skew": 2.35,
+      "kurt": 6.01
+    },
+    "Avg RTT UL (ms)": {
+      "std": 13.76,
+      "var": 189.21,
+      "iqr": 14.66,
+      "skew": 1.87,
+      "kurt": 3.64
+    },
+    "Avg Bearer TP DL (kbps)": {
+      "std": 21009.55,
+      "var": 441401173.89,
+      "iqr": 19667.0,
+      "skew": 1.72,
+      "kurt": 1.96
+    },
+    "Avg Bearer TP UL (kbps)": {
+      "std": 1434.34,
+      "var": 2057325.52,
+      "iqr": 1073.0,
+      "skew": 1.6,
+      "kurt": 1.06
+    }
+  },
+  "bivariate_corr_with_total": {
+    "Total Social Media (Bytes)": 0.0053829753163866425,
+    "Total Google (Bytes)": 0.013370327695874163,
+    "Total Email (Bytes)": 0.00376798248466076,
+    "Total Youtube (Bytes)": 0.034887696929145534,
+    "Total Netflix (Bytes)": 0.034798453200608516,
+    "Total Gaming (Bytes)": 0.9982543562029403,
+    "Total Other (Bytes)": -0.0024429034244218637
+  },
+  "top5_decile_total_data": {
+    "5": 6425801262425.0,
+    "6": 6152477842172.0,
+    "7": 7821367556123.0,
+    "8": 9307124894569.0,
+    "9": 15394908404201.371
+  },
+  "correlation_matrix": {
+    "Total Social Media (Bytes)": {
+      "Total Social Media (Bytes)": 1.0,
+      "Total Google (Bytes)": -0.002,
+      "Total Email (Bytes)": 0.004,
+      "Total Youtube (Bytes)": 0.001,
+      "Total Netflix (Bytes)": 0.001,
+      "Total Gaming (Bytes)": 0.001,
+      "Total Other (Bytes)": 0.006
+    },
+    "Total Google (Bytes)": {
+      "Total Social Media (Bytes)": -0.002,
+      "Total Google (Bytes)": 1.0,
+      "Total Email (Bytes)": -0.0,
+      "Total Youtube (Bytes)": 0.002,
+      "Total Netflix (Bytes)": -0.002,
+      "Total Gaming (Bytes)": -0.001,
+      "Total Other (Bytes)": -0.002
+    },
+    "Total Email (Bytes)": {
+      "Total Social Media (Bytes)": 0.004,
+      "Total Google (Bytes)": -0.0,
+      "Total Email (Bytes)": 1.0,
+      "Total Youtube (Bytes)": -0.003,
+      "Total Netflix (Bytes)": 0.001,
+      "Total Gaming (Bytes)": -0.001,
+      "Total Other (Bytes)": -0.001
+    },
+    "Total Youtube (Bytes)": {
+      "Total Social Media (Bytes)": 0.001,
+      "Total Google (Bytes)": 0.002,
+      "Total Email (Bytes)": -0.003,
+      "Total Youtube (Bytes)": 1.0,
+      "Total Netflix (Bytes)": 0.003,
+      "Total Gaming (Bytes)": -0.003,
+      "Total Other (Bytes)": 0.003
+    },
+    "Total Netflix (Bytes)": {
+      "Total Social Media (Bytes)": 0.001,
+      "Total Google (Bytes)": -0.002,
+      "Total Email (Bytes)": 0.001,
+      "Total Youtube (Bytes)": 0.003,
+      "Total Netflix (Bytes)": 1.0,
+      "Total Gaming (Bytes)": -0.003,
+      "Total Other (Bytes)": -0.009
+    },
+    "Total Gaming (Bytes)": {
+      "Total Social Media (Bytes)": 0.001,
+      "Total Google (Bytes)": -0.001,
+      "Total Email (Bytes)": -0.001,
+      "Total Youtube (Bytes)": -0.003,
+      "Total Netflix (Bytes)": -0.003,
+      "Total Gaming (Bytes)": 1.0,
+      "Total Other (Bytes)": -0.003
+    },
+    "Total Other (Bytes)": {
+      "Total Social Media (Bytes)": 0.006,
+      "Total Google (Bytes)": -0.002,
+      "Total Email (Bytes)": -0.001,
+      "Total Youtube (Bytes)": 0.003,
+      "Total Netflix (Bytes)": -0.009,
+      "Total Gaming (Bytes)": -0.003,
+      "Total Other (Bytes)": 1.0
+    }
+  },
+  "pca_explained_variance_ratio": [
+    0.14435993781781814,
+    0.1437511774959103,
+    0.14360322138471018,
+    0.14288311361776826
+  ],
+  "pca_components": [
+    [
+      -0.37420980654279246,
+      0.06631424428176624,
+      0.01562484445978124,
+      -0.05575396295982015,
+      0.5673641895471788,
+      -0.013296835509631233,
+      -0.7281056737365323
+    ],
+    [
+      0.22373268620164466,
+      -0.3253588999956205,
+      0.4353611632478359,
+      -0.6386691751393129,
+      -0.08478693661092104,
+      0.4621430076446755,
+      -0.16088079265800032
+    ],
+    [
+      -0.548849458650074,
+      0.24176268047450283,
+      -0.4276082748952574,
+      -0.24938047497659124,
+      -0.4985315226684044,
+      0.37434488585245046,
+      -0.08128866681705632
+    ],
+    [
+      -0.03154089695142815,
+      -0.7879130327606189,
+      -0.5462250277310801,
+      0.09968475071673097,
+      0.18886622515181978,
+      0.17160960823647647,
+      0.06913093040031199
+    ]
+  ]
+}

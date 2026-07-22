@@ -1,0 +1,86 @@
+{
+  "top10_satisfied": [
+    {
+      "MSISDN/Number": 41882819545.02736,
+      "engagement_score": 521.2216290104029,
+      "experience_score": 2.3027029958545002,
+      "satisfaction_score": 261.7621660031287
+    },
+    {
+      "MSISDN/Number": 33625779332.0,
+      "engagement_score": 22.713626704761868,
+      "experience_score": 3.5357407512253833,
+      "satisfaction_score": 13.124683727993625
+    },
+    {
+      "MSISDN/Number": 33626320676.0,
+      "engagement_score": 20.85090573610743,
+      "experience_score": 3.0943810626858386,
+      "satisfaction_score": 11.972643399396633
+    },
+    {
+      "MSISDN/Number": 33614892860.0,
+      "engagement_score": 20.64601244651495,
+      "experience_score": 3.012852101156698,
+      "satisfaction_score": 11.829432273835824
+    },
+    {
+      "MSISDN/Number": 33760536639.0,
+      "engagement_score": 17.674025727320593,
+      "experience_score": 2.31450057442871,
+      "satisfaction_score": 9.994263150874652
+    },
+    {
+      "MSISDN/Number": 33667163239.0,
+      "engagement_score": 16.621330222770027,
+      "experience_score": 3.1979153435573098,
+      "satisfaction_score": 9.909622783163668
+    },
+    {
+      "MSISDN/Number": 33675877202.0,
+      "engagement_score": 15.968450413779987,
+      "experience_score": 3.0985862470643553,
+      "satisfaction_score": 9.53351833042217
+    },
+    {
+      "MSISDN/Number": 33659725664.0,
+      "engagement_score": 15.501476443113969,
+      "experience_score": 3.1450932473999846,
+      "satisfaction_score": 9.323284845256977
+    },
+    {
+      "MSISDN/Number": 33603127838.0,
+      "engagement_score": 15.377937547836238,
+      "experience_score": 2.4173203604999522,
+      "satisfaction_score": 8.897628954168095
+    },
+    {
+      "MSISDN/Number": 33604515716.0,
+      "engagement_score": 14.20183993316811,
+      "experience_score": 2.972423738647702,
+      "satisfaction_score": 8.587131835907906
+    }
+  ],
+  "regression_r2": 0.9509169320172516,
+  "regression_coefficients": {
+    "sessions_frequency": 0.5424160318693978,
+    "total_duration_ms": 0.2459710203798448,
+    "total_traffic_bytes": 0.05444269136437974,
+    "avg_tcp_retrans_total_bytes": 0.1900878472444199,
+    "avg_rtt_ms": -0.30390053015489027,
+    "avg_throughput_kbps": 0.19483432337864123
+  },
+  "regression_intercept": 1.8400442659394987,
+  "cluster_satisfaction_experience_avg": {
+    "0": {
+      "satisfaction_score": 1.8376,
+      "experience_score": 3.246,
+      "engagement_score": 0.4292
+    },
+    "1": {
+      "satisfaction_score": 261.7622,
+      "experience_score": 2.3027,
+      "engagement_score": 521.2216
+    }
+  }
+}
